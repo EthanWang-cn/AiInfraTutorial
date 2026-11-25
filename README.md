@@ -2,8 +2,6 @@
 
 > 从零开始深入理解 AI Infra 的核心全栈技术
 
-**在线浏览：[https://caomaolufei.github.io/AIInfraGuide/](https://caomaolufei.github.io/AIInfraGuide/)** ｜ [更新日志](https://caomaolufei.github.io/AIInfraGuide/blog/update-log/)
-
 本项目系统梳理 AI Infra 的技术栈，从 GPU 硬件、CUDA 编程与算子优化，到分布式训练和推理优化，帮助工程师建立完整的 AI 基础设施知识体系。另设面试宝典板块，收录 180+ 场面试真题，覆盖 60+ 家公司。
 
 **快速导航：** [学习路线](#-aiinfra-学习路线) · [前置知识](#-模块一前置知识) · [CUDA 编程与算子优化](#-模块二cuda-编程与算子优化) · [分布式训练](#-模块三分布式训练) · [推理优化](#-模块四推理优化) · [面试宝典](#-面试宝典) · [本地运行](#-本地运行) · [参与贡献](#-欢迎参与贡献)
@@ -296,40 +294,4 @@ AIInfraGuide 是一个**开源、系统、面向实践**的 AI Infra 知识库�
 
 <br>
 
-## 🤝 欢迎参与贡献
 
-AIInfraGuide 是一个开源项目，欢迎通过以下方式参与共建：
-
-- **提交 Issue**：发现错误、提出建议，或者告诉我们你希望看到的主题
-- **贡献 PR**：分享你的实践经验、补充技术细节、改进现有内容
-- **Star & Share**：如果觉得有帮助，请在 [GitHub](https://github.com/caomaolufei/AIInfraGuide) 上给个 Star，让更多人发现这个项目
-
-💡 **提示**：如果你不确定从哪里开始，推荐先阅读知识库中的「AIInfra 学习路线」，它会帮你梳理一条清晰的学习路径。
-
-让我们一起构建 AI Infra 社区的知识基础设施。
-
-<div id="contribute"></div>
-
-<div align='center'>
-<a href="https://star-history.dera.page/#caomaolufei/AIInfraGuide&type=Date">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://star-history.dera.page/svg?repos=caomaolufei/AIInfraGuide&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://star-history.dera.page/svg?repos=caomaolufei/AIInfraGuide&type=Date" />
-    <img width=400 height=300 alt="Star History Chart" src="https://star-history.dera.page/svg?repos=caomaolufei/AIInfraGuide&type=Date" />
-  </picture>
-</a>
-</div>
-
-## 联系方式
-
-欢迎通过以下方式与我交流：
-
-- 公众号：[《AI Infra Guide》](https://mp.weixin.qq.com/s/oxUBDTd-b1aZnh0jGR5tqw)
-- 知乎：[草帽路飞](https://zhihu.com/people/zi-you-zi-zai-de-zhan-sheng)
-- 社群：微信 caomaolufei2026
-
-<img src="https://caomaolufei.github.io/AIInfraGuide/images/wx_qun.png" alt="wx_qun" style="max-width: 50%; display: block; margin: 0 auto;" />
-
-## License
-
-MIT
